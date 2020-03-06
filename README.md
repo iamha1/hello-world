@@ -1,2 +1,2 @@
 # hello-world
-First shit on GitHub
+First thing on GitHub
